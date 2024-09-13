@@ -1,6 +1,5 @@
-<img src='man/figures/logo_text_wide.svg' align="right" height="70"/>
+# Building sector model with heterogeneous renovation and construction of the stock <a href=''><img src='man/figures/logo_text_wide.png' align='right' height='139' /></a>
 
-# Building sector model with heterogeneous renovation and construction of the stock
 
 R package **brick**, version **0.5.5**
 
